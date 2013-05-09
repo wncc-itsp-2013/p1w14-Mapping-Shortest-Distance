@@ -1,0 +1,21 @@
+Week 1
+  Search for Geopositional data formats
+  Learn about languages supported by the data
+  Read simple KML files and codes from https://code.google.com/ and https://developers.google.com/kml/documentation/kml_tut
+Week 2
+  Learn Python from http://docs.python.org/2/tutorial/
+  Try out simple programs and search for webapps source on Python and C++ to undertand their use
+  Learn about GUI and its coding
+Week 3
+  Learn about More KML and its library
+  Design the algorithm and do the documentation required
+Week 4
+  Divide the algoriths into simpler modules for easier coding.
+  Code each module seperately debug and complie
+  Remover the errors
+Week 5 
+  Combine the modules into single program removing redundant codes and complie
+Week 6
+  Test and Debug the project
+  Make changes in code to make it adaptive
+  
