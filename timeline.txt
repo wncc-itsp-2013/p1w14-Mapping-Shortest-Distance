@@ -12,7 +12,7 @@ Week 3
 Week 4
   Divide the algoriths into simpler modules for easier coding.
   Code each module seperately debug and complie
-  Remover the errors
+  Remove the errors
 Week 5 
   Combine the modules into single program removing redundant codes and complie
 Week 6
